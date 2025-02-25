@@ -1,6 +1,4 @@
-# 🚀 Refer & Earn Frontend
-
-> Welcome to the **Refer & Earn** experience! Seamlessly refer your friends and unlock rewards.
+# Accredin Frontend-task
 
 ---
 
