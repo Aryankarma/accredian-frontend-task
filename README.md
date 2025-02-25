@@ -6,13 +6,12 @@
 
 ## 🔧 Stack & Technologies
 
-- **React**: Dynamic UI components
-- **JavaScript**: Core programming language
-- **Vite**: Lightning-fast development
-- **Material-UI (MUI)**: Pre-designed UI components
-- **Flowbite**: Additional UI components
-- **Tailwind CSS**: Utility-first styling framework
-- **React Router DOM**: Declarative routing
+- **React**
+- **JavaScript**
+- **Vite**
+- **Material-UI (MUI)**
+- **Tailwind CSS**
+- **React Router DOM**
 
 ---
 
@@ -26,8 +25,8 @@
 ### Quick Start
 
 ```bash
-git clone https://github.com/AkshatSharma5/accredian-frontend-task.git
-cd AccredianFrontend
+git clone https://github.com/aryankarma/accredian-frontend-task.git
+cd accredian-frontend-task
 npm i
 npm run dev
 ```
